@@ -18,8 +18,8 @@ class Application
     puts " "
     puts " "
     puts "                          Bienvenue sur le légendaire jeu du morpion !"
-    puts "      Affronte un autre joueur (ou joue tout seul si t'as pas d'amis, c'est trite mais tu peux on juge pas)"
-    puts "                          Soit le premier a aligner tes trois symboles"
+    puts "      Affronte un autre joueur (ou joue tout seul si t'as pas d'amis, c'est triste mais tu peux on juge pas)"
+    puts "                          Soit le premier à aligner tes trois symboles"
     puts "                                          Let's gooooo ! "
     puts " "
   end
@@ -44,7 +44,7 @@ class Application
     puts "      Ton symbole sera le O"
     puts " "
     puts " "
-    puts "      Puisque vous avez été dicipliné, la partie peut commencer !"
+    puts "      Puisque vous avez été discipliné, la partie peut commencer !"
     puts "      Appuie sur entrée pour lancer le jeu"
     gets.chomp
     return player2
