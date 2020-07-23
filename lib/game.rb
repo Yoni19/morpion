@@ -26,9 +26,9 @@ require_relative 'boardcase'
       puts " "
       print "      "
       puts "-" * 48
-      puts "                  -- TABLEAU DES SCORES --          "
-      puts "            #{players[0].name} a gagné #{players[0].win} fois !                  "
-      puts "            #{players[1].name} a gagné #{players[1].win} fois !                  "
+      puts "                 "+"-- TABLEAU DES SCORES --          "
+      puts "        "+"            #{players[0].name} a gagné #{players[0].win} fois !                  "
+      puts "        "+"            #{players[1].name} a gagné #{players[1].win} fois !                  "
       print "      "
       puts "-" * 48
       puts " "
